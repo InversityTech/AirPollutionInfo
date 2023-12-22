@@ -1,3 +1,10 @@
+     ___       __  .______         .______     ______    __       __       __    __  .___________. __    ______   .__   __. 
+    /   \     |  | |   _  \        |   _  \   /  __  \  |  |     |  |     |  |  |  | |           ||  |  /  __  \  |  \ |  | 
+   /  ^  \    |  | |  |_)  |       |  |_)  | |  |  |  | |  |     |  |     |  |  |  | `---|  |----`|  | |  |  |  | |   \|  | 
+  /  /_\  \   |  | |      /        |   ___/  |  |  |  | |  |     |  |     |  |  |  |     |  |     |  | |  |  |  | |  . `  | 
+ /  _____  \  |  | |  |\  \----.   |  |      |  `--'  | |  `----.|  `----.|  `--'  |     |  |     |  | |  `--'  | |  |\   | 
+/__/     \__\ |__| | _| `._____|   | _|       \______/  |_______||_______| \______/      |__|     |__|  \______/  |__| \__| 
+
 # Introduction
 Air quality is a measure of the amount of pollutants in the air. Air pollution is a major environmental issue that affects the health of millions of people worldwide. In this document, we will discuss the causes and effects of air pollution and how it has changed over time.
 
