@@ -4,7 +4,7 @@ Air quality is a measure of the amount of pollutants in the air. Air pollution i
 This README will explain more about:
 - How air quality has changed over time
 - What air pollution actually is
-- Why air pollution is an issue.
+- Why air pollution is an issue. There's also some crazy facts included too!
 
 # Air Quality Over Time
 Air quality has changed significantly over the past few decades. The burning of fossil fuels, industrial processes, and transportation are some of the main sources of air pollution. The increase in air pollution has led to a rise in respiratory diseases, heart disease, and other health problems. The following table shows the changes in air quality over the past few decades:
@@ -26,6 +26,14 @@ Air pollution has a significant impact on human health and the environment. Expo
 - Health: Air pollution can cause respiratory diseases, heart disease, and other health problems.
 - Environment: Air pollution contributes to climate change, which has far-reaching effects on the environment.
 - Economy: Air pollution can have a negative impact on the economy by reducing productivity and increasing healthcare costs.
+
+# Crazy air pollution facts
+
+Here are some 'Crazy' air pollution facts, which highlight just what a serious issue Air Pollution is.
+
+1. Air pollution is responsible for up to 36,000 premature deaths a year in the UK alone
+2. Exposure to air pollution during early pregnancy increases the risk of birth defects
+3. New Delhi’s air quality level can reach up to 40 times the World Health Organization’s safety limit
 
 # Interesting Stat
 It has been estimated that air pollution causes the equivalent of 40,000 early deaths every year.
