@@ -27,5 +27,8 @@ Air pollution has a significant impact on human health and the environment. Expo
 - Environment: Air pollution contributes to climate change, which has far-reaching effects on the environment.
 - Economy: Air pollution can have a negative impact on the economy by reducing productivity and increasing healthcare costs.
 
+# Interesting Stat
+It has been estimated that air pollution causes the equivalent of 40,000 early deaths every year.
+
 # Conclusion
 Air pollution is a major environmental issue that affects the health of millions of people worldwide. In this document, we discussed the causes and effects of air pollution and how it has changed over time. We hope this information has been helpful. For more information on air quality and pollution, please visit the Environmental Protection Agency website.
